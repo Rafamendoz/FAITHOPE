@@ -53,10 +53,6 @@ li a:hover {
     background-color: #111;
 }
 
-.container{
-	position: absolute;
-	
-}
 
 * {
 				margin:0px;
@@ -67,4 +63,28 @@ li a:hover {
 body{
 	background-color: #F5EAEA;
 	
+}
+
+.img1{
+	 
+	   display: inline-block;
+    text-align: center;
+
+}
+
+.titulop{
+	position: absolute;
+   left: 700px;
+	top: 101px;
+	width: 572px;
+	font-family: 'Leelawadee UI';
+	font-size: 35px;
+	font-weight: normal;
+	letter-spacing: 5px;
+	color: white;
+	
+}
+
+.container{
+	position: absolute;
 }
