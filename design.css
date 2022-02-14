@@ -79,20 +79,26 @@ body{
 	
 }
 
-.container{
-	position: absolute;
+.container1{
+	display: block;
+	margin: 0;
+	padding: 0; 	
+}
+
+.contenedor{
+		margin: 0;
+
+	background-color: #04293A;
+	height: 457px;
+	max-width: 100%;
 }
 
 img{
 	 max-width: 100%;
-
-}
-
-.img1{
-	order: 3;
+	max-height: 100%;
 
 }
 
 .galeria{
-	  display: flex;
+position: static;	
 }
