@@ -79,6 +79,38 @@ body{
 	
 }
 
+.titulo2{
+	position: absolute;
+   left: 512px;
+	top: 1053px;
+	width: 572px;
+	font-family: 'Leelawadee UI';
+	font-size: 30px;
+	font-weight: normal;
+	letter-spacing: 5px;
+	color: white;
+	
+}
+
+
+.button1{
+	position: absolute;
+   left: 122px;
+	top: 1143px;
+	width: 572px;
+	
+}
+
+.button5 {
+	border: none;
+	border-radius: 12px;
+	cursor: pointer;
+	width: 168px;
+	height: 48px;
+}
+
+
+
 .container1{
 	display: block;
 	margin: 0;
