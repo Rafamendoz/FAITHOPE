@@ -121,4 +121,28 @@ p{
 	font-family: 'Montserrat';
 	font-weight: bold;
 	color: blue;
+animation-delay: 4s;
+}
+
+.contenedor4{
+	margin: 0;
+	background: linear-gradient(#041C32, #24282B);
+	height: 200px;
+	max-width: 100%;		
+}
+
+.pie{
+	float: left;
+}
+
+.p1{
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 35px;
+	height:  50px;
+	font-family: 'Montserrat';
+	font-size: 13px;
+	width: 25%
+	
 }
