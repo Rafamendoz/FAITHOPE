@@ -164,3 +164,28 @@ img{
 
 }
 
+.imgend{
+	position: absolute;
+   left: 693.68px;
+	top: 1940px;
+	
+}
+
+.contenedor2{
+	display: flex;
+	
+}
+
+.contenedor3{
+margin: 0;
+
+	background-color: #04293A;
+	height: 300px;
+	max-width: 100%;		
+}
+
+.im2{
+	background: red;
+	height: 600px;
+	max-height: 600px;
+}
