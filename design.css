@@ -177,9 +177,8 @@ img{
 }
 
 .contenedor3{
-margin: 0;
-
-	background-color: #04293A;
+	margin: 0;
+	background: linear-gradient(#041C32, #24282B);
 	height: 300px;
 	max-width: 100%;		
 }
