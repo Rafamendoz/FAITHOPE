@@ -16,8 +16,10 @@ ul{
 	
 }
 
+body{
+		width: auto;
 
-
+}
 li{
 	
 	float: left;
@@ -77,7 +79,7 @@ li a:hover {
 
 .div1{
 float: left;
-	background: red;
+
 	width: 50%;
 	height: 600px;
 	
@@ -124,12 +126,26 @@ p{
 animation-delay: 4s;
 }
 
-.contenedor4{
-	margin: 0;
+.contenedor3{
+float: left;
 	background: linear-gradient(#041C32, #24282B);
-	height: 200px;
-	max-width: 100%;		
+	width: 100%;
+	margin: 0;
+	align-content: center;
+	text-align: center;
+
 }
+
+.im2{
+	background: red;
+	height: 600px;
+	max-height: 600px;
+}
+
+.cabezal{
+	position: absolute;
+}
+
 
 .pie{
 	float: left;
@@ -146,3 +162,4 @@ animation-delay: 4s;
 	width: 25%
 	
 }
+
