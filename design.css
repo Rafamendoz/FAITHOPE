@@ -95,19 +95,52 @@ body{
 
 .button1{
 	position: absolute;
+	display: inline-block;
    left: 122px;
 	top: 1143px;
-	width: 572px;
+	width: auto;
+	padding: 14px 35px;
+	
+}
+.button10{
+	position: absolute;
+	display: inline-block;
+   left: 512px;
+	top: 1143px;
+	width: auto;
+	padding: 14px 35px;
 	
 }
 
+.button100{
+	position: absolute;
+	display: inline-block;
+   left: 1024px;
+	top: 1143px;
+	width: auto;
+	padding: 14px 35px;
+	
+}
+
+
+
 .button5 {
 	border: none;
-	border-radius: 12px;
+	border-radius: 30px;
 	cursor: pointer;
 	width: 168px;
 	height: 48px;
+	background: white;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: #0256B6;
+	letter-spacing: 3px;
+	
 }
+
+
+
+
 
 
 
@@ -131,6 +164,3 @@ img{
 
 }
 
-.galeria{
-position: static;	
-}
