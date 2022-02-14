@@ -75,7 +75,7 @@ body{
 	top: 101px;
 	width: 572px;
 	font-family: 'Leelawadee UI';
-	font-size: 35px;
+	font-size: 25px;
 	font-weight: normal;
 	letter-spacing: 5px;
 	color: white;
@@ -88,7 +88,7 @@ body{
 	top: 1053px;
 	width: 572px;
 	font-family: 'Leelawadee UI';
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: normal;
 	letter-spacing: 5px;
 	color: white;
@@ -208,7 +208,7 @@ img{
     padding: 14px 35px;
 	height:  50px;
 	font-family: 'Montserrat';
-	font-size: 15px;
-	width: 27%
+	font-size: 13px;
+	width: 25%
 	
 }
