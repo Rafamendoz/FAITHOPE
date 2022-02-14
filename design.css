@@ -6,13 +6,13 @@ ul{
 	list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #333;
+    background-color: #041C32;
 	position: fixed;
 	margin-left: 0;
 	padding-left: 0;
 	top: 0;
     width: 100%;
+	
 }
 
 
@@ -24,7 +24,7 @@ li{
 }
 
 li a {
-    display: block;
+    display: inline-block;
     color: white;
 	line-height: 50px; 
     text-align: center;
@@ -39,18 +39,21 @@ li a {
 
 .item{
 	float: right;
+	
 }
 
 .item1{
 	float: right;
 	padding: 12px 0px 0px;
 	height: 25px;
+
 	
 }
 
 
 li a:hover {
     background-color: #111;
+	
 }
 
 
@@ -179,7 +182,7 @@ img{
 .contenedor3{
 	margin: 0;
 	background: linear-gradient(#041C32, #24282B);
-	height: 300px;
+	height: 200px;
 	max-width: 100%;		
 }
 
@@ -187,4 +190,26 @@ img{
 	background: red;
 	height: 600px;
 	max-height: 600px;
+}
+
+.cabezal{
+	position: absolute;
+}
+
+
+.pie{
+	float: left;
+	margin: 50px;
+	
+}
+
+p{
+	 display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 35px;
+	height:  50px;
+	font-family: 'Montserrat';
+	font-size: 13px;
+	
 }
