@@ -87,3 +87,12 @@ img{
 	 max-width: 100%;
 
 }
+
+.img1{
+	order: 3;
+
+}
+
+.galeria{
+	  display: flex;
+}
