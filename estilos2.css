@@ -86,7 +86,7 @@ float: left;
 
 .div2{
 float: left;
-	background: blue;
+	background: linear-gradient(#041C32, #24282B);
 	width: 50%;
 	height: 600px;
 	margin: 0;
@@ -97,8 +97,52 @@ float: left;
 
 p{
 	font-family: 'Montserrat';
-	color: black;
+	color: white;
 	font-size: 19px;
 	
+	
+}
+
+.forms{
+	padding: 20px;
+	border: 0;
+}
+
+.forms1{	
+	padding: 60px;
+	border: 0;
+}
+
+.buttons{
+	border-radius: 35px;
+	width: 100px;
+	height: 50px;	
+	background: #FFFFFF;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: blue;
+animation-delay: 4s;
+}
+
+.contenedor4{
+	margin: 0;
+	background: linear-gradient(#041C32, #24282B);
+	height: 200px;
+	max-width: 100%;		
+}
+
+.pie{
+	float: left;
+}
+
+.p1{
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 35px;
+	height:  50px;
+	font-family: 'Montserrat';
+	font-size: 13px;
+	width: 25%
 	
 }
