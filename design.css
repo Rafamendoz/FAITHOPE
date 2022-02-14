@@ -199,17 +199,16 @@ img{
 
 .pie{
 	float: left;
-	margin: 50px;
-	
 }
 
-p{
-	 display: inline-block;
+.p1{
+	display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 35px;
 	height:  50px;
 	font-family: 'Montserrat';
-	font-size: 13px;
+	font-size: 15px;
+	width: 27%
 	
 }
