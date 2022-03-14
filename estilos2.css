@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 /* CSS Document */
 
 
@@ -13,7 +12,7 @@ ul{
 	padding-left: 0;
 	top: 0;
     width: 100%;
-	
+
 }
 
 body{
@@ -21,28 +20,28 @@ body{
 
 }
 li{
-	
+
 	float: left;
-   
+
 }
 
 li a {
     display: inline-block;
     color: white;
-	line-height: 50px; 
+	line-height: 50px;
     text-align: center;
     padding: 14px 35px;
 	height:  50px;
     text-decoration: none;
 	font-family: 'Montserrat';
 	font-size: 13px;
-	
-	
+
+
 }
 
 .item{
 	float: right;
-	
+
 }
 
 .item1{
@@ -50,20 +49,20 @@ li a {
 	padding: 12px 0px 0px;
 	height: 25px;
 
-	
+
 }
 
 
 li a:hover {
     background-color: #111;
-	
+
 }
 
 
 * {
 				margin:0;
 				padding:0;
-	
+
 			}
 
 
@@ -73,7 +72,7 @@ li a:hover {
 	margin: 0;
 	margin-top: 80px;
 	margin-right: 0;
-	
+
 }
 
 
@@ -82,7 +81,7 @@ float: left;
 
 	width: 50%;
 	height: 600px;
-	
+
 }
 
 
@@ -101,8 +100,8 @@ p{
 	font-family: 'Montserrat';
 	color: white;
 	font-size: 19px;
-	
-	
+
+
 }
 
 .forms{
@@ -110,7 +109,7 @@ p{
 	border: 0;
 }
 
-.forms1{	
+.forms1{
 	padding: 60px;
 	border: 0;
 }
@@ -118,7 +117,7 @@ p{
 .buttons{
 	border-radius: 35px;
 	width: 100px;
-	height: 50px;	
+	height: 50px;
 	background: #FFFFFF;
 	font-family: 'Montserrat';
 	font-weight: bold;
@@ -160,6 +159,5 @@ float: left;
 	font-family: 'Montserrat';
 	font-size: 13px;
 	width: 25%
-	
-}
 
+}
